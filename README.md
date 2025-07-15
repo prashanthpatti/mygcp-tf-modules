@@ -6,14 +6,6 @@ This repository automates the **creation and management of Google Cloud Projects
 
 ## 📁 Repository Structure
 
-# 🚀 GCP Project Bootstrap & Terraform Automation
-
-This repository automates the **creation and management of Google Cloud Projects** and key resources like **Cloud Functions**, **Load Balancers**, **Service Accounts**, and **IAM configurations** — all through **Bash scripts** and **Terraform**.
-
----
-
-## 📁 Repository Structure
-
 ```text
 .
 ├── execute.sh               # Bootstrap project, APIs, and infra
